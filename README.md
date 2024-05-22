@@ -4,6 +4,12 @@ SyriaTel, a telecommunications company, aims to predict customer churn to reduce
 
 # Overview
 This repository contains the evaluation results of churn prediction models based on various performance metrics.
+Churn distribution eveluated where out of 3,333 customers in the dataset, 483 have terminated their contract with SyriaTel, representing 14.5% of customers lost.
+![image](https://github.com/Zircornn-Black/SyriaTel-Machine-Learning-models/assets/158102409/c1137f18-793a-49de-a130-93a4a56ff5ac)
+
+The Key features in our data are as per below.
+![image](https://github.com/Zircornn-Black/SyriaTel-Machine-Learning-models/assets/158102409/3887beac-82e1-497c-befd-b56fb526bf25)
+
 
 # Key Findings
 **Model Performance:**
