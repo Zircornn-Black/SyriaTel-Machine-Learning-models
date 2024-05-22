@@ -6,16 +6,15 @@ SyriaTel, a telecommunications company, aims to predict customer churn to reduce
 This repository contains the evaluation results of churn prediction models based on various performance metrics.
 Churn distribution eveluated where out of 3,333 customers in the dataset, 483 have terminated their contract with SyriaTel, representing 14.5% of customers lost.
 ![image](https://github.com/Zircornn-Black/SyriaTel-Machine-Learning-models/assets/158102409/c1137f18-793a-49de-a130-93a4a56ff5ac)
-
 The Key features in our data are as per below.
 ![image](https://github.com/Zircornn-Black/SyriaTel-Machine-Learning-models/assets/158102409/3887beac-82e1-497c-befd-b56fb526bf25)
 
-
 # Key Findings
 **Model Performance:**
-
-Random Forests, Decision Trees, and KNN achieved the highest accuracy scores, all at 87%.
+The area under the curve below using ROC Curve analysis showed that logistic regression was the best but after more models evaluation, we saw that Random Forests, Decision Trees, and KNN achieved the highest accuracy scores, all at 87%.
 Logistic Regression performed slightly lower with an accuracy score of 70%.
+![image](https://github.com/Zircornn-Black/SyriaTel-Machine-Learning-models/assets/158102409/65c6409d-d43e-4b15-832c-f07098e1d91e)
+
 **F1 Scores:**
 
 Random Forests outperformed other models with an F1 score of 0.55, indicating better precision and recall.
